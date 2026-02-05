@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>大青山的小天地</title>
-    <link>https://1725157644.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 大青山的小天地</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 04 Feb 2026 10:52:29 +0800</lastBuildDate>
-    <atom:link href="https://1725157644.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://1725157644.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 04 Feb 2026 10:52:29 +0800</pubDate>
-      <guid>https://1725157644.github.io/about/</guid>
-      <description>&lt;h1 id=&#34;你好我是大青山-&#34;&gt;你好，我是大青山 👋&lt;/h1&gt;&#xA;&lt;p&gt;这是我的个人博客，用来记录日常生活、读书思考和点滴感悟&lt;/p&gt;&#xA;&lt;h3 id=&#34;关于博客&#34;&gt;关于博客&lt;/h3&gt;&#xA;&lt;p&gt;创建于2026年2月，初衷是想找一个地方，专注于自我表达&lt;/p&gt;&#xA;&lt;h3 id=&#34;关于我&#34;&gt;关于我&lt;/h3&gt;&#xA;&lt;p&gt;热衷于尝试各种新事物&lt;/p&gt;&#xA;&lt;h3 id=&#34;联系我&#34;&gt;联系我&lt;/h3&gt;&#xA;&lt;p&gt;📧 邮箱：不必联系我&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://1725157644.github.io/images/fddf.jpg&#34; alt=&#34;我的近照&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;你好我是大青山-&#34;&gt;你好，我是大青山 👋&lt;/h1&gt;&#xA;&lt;p&gt;这是我的个人博客，用来记录日常生活、读书思考和点滴感悟&lt;/p&gt;&#xA;&lt;h3 id=&#34;关于博客&#34;&gt;关于博客&lt;/h3&gt;&#xA;&lt;p&gt;创建于2026年2月，初衷是想找一个地方，专注于自我表达&lt;/p&gt;&#xA;&lt;h3 id=&#34;关于我&#34;&gt;关于我&lt;/h3&gt;&#xA;&lt;p&gt;热衷于尝试各种新事物&lt;/p&gt;&#xA;&lt;h3 id=&#34;联系我&#34;&gt;联系我&lt;/h3&gt;&#xA;&lt;p&gt;📧 邮箱：不必联系我&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/fddf.jpg&#34; alt=&#34;我的近照&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>我的第一篇博客</title>
-      <link>https://1725157644.github.io/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 03 Feb 2026 10:00:00 +0800</pubDate>
-      <guid>https://1725157644.github.io/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;大家好我的个人博客撑开宇宙终于开辟了自己的小空间&#34;&gt;大家好！我的个人博客撑开宇宙，终于开辟了自己的小空间～👋&lt;/h1&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>日常 on 大青山的小天地</title>
-    <link>https://1725157644.github.io/tags/%E6%97%A5%E5%B8%B8/</link>
+    <link>http://localhost:1313/tags/%E6%97%A5%E5%B8%B8/</link>
     <description>Recent content in 日常 on 大青山的小天地</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Tue, 03 Feb 2026 10:00:00 +0800</lastBuildDate>
-    <atom:link href="https://1725157644.github.io/tags/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇博客</title>
-      <link>https://1725157644.github.io/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 03 Feb 2026 10:00:00 +0800</pubDate>
-      <guid>https://1725157644.github.io/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;大家好我的个人博客撑开宇宙终于开辟了自己的小空间&#34;&gt;大家好！我的个人博客撑开宇宙，终于开辟了自己的小空间～👋&lt;/h1&gt;</description>
     </item>
   </channel>
